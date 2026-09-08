@@ -30,4 +30,15 @@ A **Calculadora de Consumo Elétrico Inteligente** é uma ferramenta desenvolvid
 
 ## 📐 Fórmula Utilizada
 
-O cálculo do consumo mensal é feito através da fórmula: consumoMensal = (potencia × horasDia × 30) / 1000
+O cálculo do consumo mensal é feito através da fórmula:
+
+
+**Onde:**
+- `potencia` = Potência do aparelho em Watts (W)
+- `horasDia` = Tempo médio de uso diário em horas
+- `30` = Número médio de dias no mês
+- `1000` = Conversão de Watts para kilowatts
+
+# 🖊Autor
+
+GitHub: @sterscs

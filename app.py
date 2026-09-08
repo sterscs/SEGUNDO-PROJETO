@@ -1,6 +1,6 @@
 """
-Calculadora de Consumo Eletrico Inteligente
-Autor: Seu Nome
+ de Consumo Eletrico Inteligente
+Autor: Seu NomCalculadorae
 Data: 2026
 Descricao: Programa que calcula o consumo mensal de energia eletrica de aparelhos
 """
